@@ -7,7 +7,9 @@ it's just a simple fan-made website of the Great TV series Breaking_Bad Using th
 ##Features
   
   -Fully Responsive and Mobile Friendly
+ 
   -Quick Search Option
+  
   -Listed all the Characters
   
 
