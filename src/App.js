@@ -30,7 +30,6 @@ const App = () => {
           setQuery(q);
         }}
       />
-      <section className="textUnder">'it's just a fan-made website with lots of bugs'</section>
       <CharacterGrid items={items} isLoading={isLoading} />
     </div>
   );
