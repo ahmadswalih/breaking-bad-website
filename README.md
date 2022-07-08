@@ -16,6 +16,10 @@
   
   -Listed all the Characters
 
+## Screenshot
+<img src="img/screenshot.png" width="700" />
+
+
 ## ✨ [Demo](https://breakingbad-proj.netlify.app/)
 
 ### 🏠 [Homepage](/src/App.js)
