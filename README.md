@@ -6,11 +6,20 @@
   </a>
 </p>
 
-> A Portfolio Project built using Reactjs. This is just a fan-made website of the greate TV Series &#34;Breaking-Bad&#34;.The Application uses api from the website breakingbadapi.com.
+> A Portfolio Project built using Reactjs. This is just a fan-made website of the greate TV Series &#34;Breaking-Bad&#34;.The Application uses api from the website <a href="https://breakingbadapi.com/">breakingbadapi.com</a>
+
+## Features
+  
+  -Fully Responsive and Mobile Friendly
+ 
+  -Quick Search Option
+  
+  -Listed all the Characters
+
+## ✨ [Demo](https://breakingbad-proj.netlify.app/)
 
 ### 🏠 [Homepage](/src/App.js)
 
-### ✨ [Demo](https://breakingbad-proj.netlify.app/)
 
 ## Install
 
