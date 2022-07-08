@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> A Portfolio Project built using Reactjs. This is just a fan-made website of the greate TV Series &#34;Breaking-Bad&#34;.The Application uses api from the website breakingbadapi.com. 
+> A Portfolio Project built using Reactjs. This is just a fan-made website of the greate TV Series &#34;Breaking-Bad&#34;.The Application uses api from the website breakingbadapi.com.
 
 ### 🏠 [Homepage](/src/App.js)
 
@@ -34,8 +34,8 @@ npm run test
 
 👤 **ahmadswalih**
 
-* Github: [@ahamdswalih](https://github.com/ahamdswalih)
-* LinkedIn: [@ahmad-swalih-cm-6429881b5](https://linkedin.com/in/ahmad-swalih-cm-6429881b5)
+- Github: [@ahamdswalih](https://github.com/ahamdswalih)
+- LinkedIn: [@ahmad-swalih-cm-6429881b5](https://linkedin.com/in/ahmad-swalih-cm-6429881b5)
 
 ## Show your support
 
@@ -46,5 +46,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [ahmadswalih](https://github.com/ahamdswalih).<br />
 This project is [MIT](/) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
