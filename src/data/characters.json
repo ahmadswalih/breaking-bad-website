@@ -1497,36 +1497,6 @@
 		"appearances": ["5a", "5b"]
 	},
 	{
-		"name": "Walter White",
-		"portrayed": "Bryan Cranston",
-		"image_url": "https://static.wikia.nocookie.net/breakingbad/images/e/e7/BB-S5B-Walt-590.jpg",
-		"full_name": "Walter Hartwell White Sr.",
-		"birth_date": "September 7, 1958",
-		"occupation": [
-			"Co-Founder, Gray Matter Technologies",
-			"Chemist, Sandia Laboratories",
-			"Chemistry Teacher, J. P. Wynne High School (former)",
-			"Crystal Meth Manufacturer (former)",
-			"Drug Kingpin (former)",
-			"Co-Owner, A1A Car Wash (former)",
-			"Co-Owner, Vamonos Pest (former)"
-		],
-		"episodes_count": "2",
-		"series": "Better Call Saul",
-		"appearances": ["5b"]
-	},
-	{
-		"name": "Jesse Pinkman",
-		"portrayed": "Aaron Paul",
-		"image_url": "https://static.wikia.nocookie.net/breakingbad/images/9/95/JesseS5.jpg",
-		"full_name": "Jesse Bruce Pinkman (\"Down\")",
-		"birth_date": "September 24, 1983",
-		"occupation": ["Methamphetamine manufacturer & distributor (former)"],
-		"episodes_count": "2",
-		"series": "Better Call Saul",
-		"appearances": ["5b"]
-	},
-	{
 		"name": "Ed Galbraith",
 		"portrayed": "Robert Forster",
 		"image_url": "https://static.wikia.nocookie.net/breakingbad/images/7/79/Ed_El_Camino.png",
